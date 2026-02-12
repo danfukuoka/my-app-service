@@ -16,9 +16,3 @@ def home():
     <br><br>
     IDENTITY_HEADER: {identity_header}
     """
-
-if __name__ == "__main__":
-
-    print("test2")
-    app.run()
-    print("test3")
